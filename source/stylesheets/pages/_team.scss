@@ -1,0 +1,16 @@
+.about{
+  height: calc(100vh - 170px);
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+}
+
+img{
+  width: 150px;
+  border-radius: 200px;
+}
+
+.about-content{
+  display: block;
+}
